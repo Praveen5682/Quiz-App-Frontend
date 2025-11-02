@@ -50,10 +50,6 @@ cd Quiz-App-Frontend
 
 npm install
 
-# Create an .env file
-
-echo "VITE_QUIZ_APP_API_URL=http://localhost:5000" > .env
-
 # Start the development server
 
 npm run dev
