@@ -53,3 +53,19 @@ npm install
 # Start the development server
 
 npm run dev
+
+👩‍🏫 Teacher Login Credentials
+
+Username: teacher@gmail.com
+Password: Teacher@123
+
+🧑‍🎓 Student Access
+
+Students need to create an account by signing up on the app.
+Once registered, they can:
+
+Take available quizzes
+
+View their results
+
+Check their position on the leaderboard
